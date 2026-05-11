@@ -1,0 +1,5 @@
+print("I want to disappear!")
+print("What an anguishing existence!")
+print("Is there any salvation from this?")
+print("I embraced the absurd!")
+print("But, did it really liberate me from an unfree world?")
